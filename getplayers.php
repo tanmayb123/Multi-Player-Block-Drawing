@@ -2,7 +2,7 @@
 $host = "localhost"; //database host server
 $db = "drawing_players"; //database name
 $user = "Tanmay_Bakshi"; //database user
-$pass = "tanmayb123"; //password
+$pass = "__"; //password
 
 $connection = mysql_connect($host, $user, $pass);
 
